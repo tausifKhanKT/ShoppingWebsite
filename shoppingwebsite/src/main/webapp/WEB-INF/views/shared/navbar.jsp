@@ -18,7 +18,7 @@
 
 				<li class="dropdown" id="category"><a href="javascript:void(0)"
 					class="btn btn-default dropdown-toggle" id="category"
-					data-toggle="dropdown"> Category <span class="caret"></span></a>
+					data-toggle="dropdown" > Category <span class="caret"></span></a>
 
 					<ul class="dropdown-menu" class="text-center">
 						<c:forEach items="${categories}" var="category">
